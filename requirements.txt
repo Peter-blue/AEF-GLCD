@@ -1,0 +1,4 @@
+# Install PyTorch and torchvision separately to match the local CUDA version.
+numpy>=1.21
+Pillow>=9.0
+matplotlib>=3.5
